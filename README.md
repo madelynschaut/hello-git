@@ -1,2 +1,2 @@
 # hello-git
-first repository created with github
+my first repository
